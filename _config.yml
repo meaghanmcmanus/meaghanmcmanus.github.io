@@ -3,9 +3,5 @@ title: Meaghan McManus
 email: meaghan.mcmanus@psychol.uni-giessen.de
 author: Meaghan McManus
 description:  under construction
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-plugins:
-  - jekyll-remote-theme
-markdown: kramdown
-
+theme: just-the-docs
 ---
