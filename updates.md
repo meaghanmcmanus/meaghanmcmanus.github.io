@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Updates
-permalink: /Updates/
+permalink: /updates/
 ---
 
 # Updates
