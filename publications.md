@@ -1,6 +1,7 @@
 ---
-layout: default
 title: Publications
+layout: default
+nav_order: 3
 permalink: /publications/
 ---
 
