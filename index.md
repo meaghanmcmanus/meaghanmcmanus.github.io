@@ -1,6 +1,6 @@
 ---
 title: Home
 layout: default
-permalink: /home/
+nav_order: 1
 ---
 This will be my homepage. 
