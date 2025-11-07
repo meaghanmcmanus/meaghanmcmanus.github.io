@@ -11,8 +11,8 @@ img.small-image {
   position: fixed;       /* sticks it in the sidebar */
   top: 1rem;             /* distance from top */
   left: 1rem;            /* distance from left */
-  width: 60px;           /* adjust as needed */
-  height: 60px;
+  width: 250px;           /* adjust as needed */
+  height: 250px;
   border-radius: 50%;    /* makes it circular */
   z-index: 10;
 }
