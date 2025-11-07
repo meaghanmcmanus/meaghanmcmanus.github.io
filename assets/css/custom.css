@@ -5,7 +5,7 @@
 }
 
 .side-bar .custom-sidebar-logo img.custom-logo {
-    width: 80px !important;        /* Adjust size here */
+    width: 10px !important;        /* Adjust size here */
     height: auto !important;       /* Keep aspect ratio */
     border-radius: 50% !important;
     display: block !important;
