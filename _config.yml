@@ -7,7 +7,7 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-# Optional Just the Docs settings
+# Custom CSS
 just_the_docs:  
   custom_css:
     - "/assets/css/custom.css"
