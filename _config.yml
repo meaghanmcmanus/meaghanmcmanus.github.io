@@ -9,10 +9,10 @@ plugins:
 
 # Prevent the default logo from being added by Just the Docs
 just_the_docs:
-  logo: ""   # empty string disables default logo
+  logo: "/assets/Meaghan.png"
+  logo_alt: "Meaghan McManus"
   custom_css:
     - "/assets/css/custom.css"
-
 
 # Sidebar navigation order
 nav_sort: case_insensitive
