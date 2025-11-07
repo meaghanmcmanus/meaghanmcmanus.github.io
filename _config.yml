@@ -10,7 +10,7 @@ plugins:
 # Optional Just the Docs settings
 just_the_docs:  
   custom_css:
-    - "/assets/css/main.css"
+    - "/assets/css/custom.css"
 
 # Sidebar navigation order
 nav_sort: case_insensitive
