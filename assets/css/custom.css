@@ -1,23 +1,20 @@
-/* Make the homepage logo smaller */
-img.small-image {
-  width: 250px !important;
-  height: 250px !important;
-  border-radius: 50% !important;
-  display: block !important;
-  margin: 1rem auto !important;
-  object-fit: cover !important;
-}
-.sidebar-logo {
-  position: fixed;       /* sticks it in the sidebar */
-  top: 1rem;             /* distance from top */
-  left: 1rem;            /* distance from left */
-  width: 250px;           /* adjust as needed */
-  height: 250px;
-  border-radius: 50%;    /* makes it circular */
-  z-index: 10;
+.custom-sidebar-logo {
+  text-align: center;
+  padding: 1rem;
 }
 
-/* Push sidebar links down so they don't overlap the logo */
-.sidebar .nav-group {
-  margin-top: 250px;      /* matches logo height + spacing */
+.custom-sidebar-logo .custom-logo {
+  width: 100px;          /* adjust as needed */
+  height: 100px;
+  border-radius: 50%;    /* circular */
+  display: block;
+  margin: 0 auto 0.5rem auto;
+  object-fit: cover;
+}
+
+.custom-sidebar-logo .custom-logo-text {
+  font-size: 0.9rem;
+  color: #333;
+  margin: 0;
+  line-height: 1.2;
 }
