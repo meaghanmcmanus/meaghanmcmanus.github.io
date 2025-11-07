@@ -1,6 +1,12 @@
-/* Make the sidebar logo smaller */
+/* Sidebar logo container */
+.side-bar .custom-sidebar-logo {
+    text-align: center !important;
+    padding: 0.5rem !important;
+}
+
+/* Sidebar logo image */
 .side-bar .custom-sidebar-logo img.custom-logo {
-    width: 60px !important;
+    width: 60px !important;          /* adjust size as needed */
     height: 60px !important;
     border-radius: 50% !important;
     display: block !important;
@@ -8,17 +14,11 @@
     object-fit: cover !important;
 }
 
-/* Text below the image */
+/* Text below image */
 .side-bar .custom-sidebar-logo .custom-logo-text {
     font-size: 0.8rem !important;
     color: #333 !important;
     margin: 0 !important;
     line-height: 1.2 !important;
     text-align: center !important;
-}
-
-/* Container padding */
-.side-bar .custom-sidebar-logo {
-    text-align: center !important;
-    padding: 0.5rem !important;
 }
