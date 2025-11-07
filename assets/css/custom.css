@@ -7,3 +7,12 @@ img.small-image {
   margin: 1rem auto !important;
   object-fit: cover !important;
 }
+.sidebar-logo {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  z-index: 10;
+}
