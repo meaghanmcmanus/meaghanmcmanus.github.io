@@ -11,9 +11,7 @@ plugins:
 just_the_docs:
   logo: "/assets/Meaghan.png"
   logo_alt: "Meaghan McManus"
-  custom_css:
-    - "/assets/css/custom.css"
-
+  
 # Sidebar navigation order
 nav_sort: case_insensitive
 nav_order:
