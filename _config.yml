@@ -14,4 +14,9 @@ nav_order:
   - publications.md
   - updates.md
   - other.md
+    sublinks:
+      - title: "Project 1"
+        permalink: "/project1/"
+      - title: "Project 2"
+        permalink: "/project2/"
 
