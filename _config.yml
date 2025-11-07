@@ -8,15 +8,11 @@ plugins:
   - jekyll-remote-theme
 
 # Sidebar navigation order
+nav_sort: case_insensitive
 nav_order:
   - index.md
   - about.md
   - publications.md
   - updates.md
   - other.md
-    sublinks:
-      - title: "Project 1"
-        permalink: "/project1/"
-      - title: "Project 2"
-        permalink: "/project2/"
 
